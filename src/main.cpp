@@ -9,7 +9,7 @@
 #include "Wire.h"
 #include <ArduinoOTA.h>
 
-constexpr char WIFI_SSID[] = "abcd";
+constexpr char WIFI_SSID[] = "BaoIphone";
 constexpr char WIFI_PASSWORD[] = "123456789";
 
 constexpr char TOKEN[] = "7s5pokn2se622pzn1jxu";
